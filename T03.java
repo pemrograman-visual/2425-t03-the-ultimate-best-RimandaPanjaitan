@@ -1,7 +1,5 @@
-// NIM - Your Name
 // 12S24049 - Rimanda Santa Risa Panjaitan
 // 12S24009 - Kezia Vania Pasaribu
-
 import java.util.*;
 import java.lang.Math;
 
@@ -69,4 +67,3 @@ public class T03 {
         } while (!iSBN.equals("---"));
     }
 }
-
